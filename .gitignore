@@ -1,3 +1,8 @@
+# compiled output
+.vscode
+/obj/
+/bin/
+
 # Prerequisites
 *.d
 
