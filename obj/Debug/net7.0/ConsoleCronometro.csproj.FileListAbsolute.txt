@@ -1,0 +1,15 @@
+C:\c#\ConsoleCronometro\bin\Debug\net7.0\ConsoleCronometro.exe
+C:\c#\ConsoleCronometro\bin\Debug\net7.0\ConsoleCronometro.deps.json
+C:\c#\ConsoleCronometro\bin\Debug\net7.0\ConsoleCronometro.runtimeconfig.json
+C:\c#\ConsoleCronometro\bin\Debug\net7.0\ConsoleCronometro.dll
+C:\c#\ConsoleCronometro\bin\Debug\net7.0\ConsoleCronometro.pdb
+C:\c#\ConsoleCronometro\obj\Debug\net7.0\ConsoleCronometro.csproj.AssemblyReference.cache
+C:\c#\ConsoleCronometro\obj\Debug\net7.0\ConsoleCronometro.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\ConsoleCronometro\obj\Debug\net7.0\ConsoleCronometro.AssemblyInfoInputs.cache
+C:\c#\ConsoleCronometro\obj\Debug\net7.0\ConsoleCronometro.AssemblyInfo.cs
+C:\c#\ConsoleCronometro\obj\Debug\net7.0\ConsoleCronometro.csproj.CoreCompileInputs.cache
+C:\c#\ConsoleCronometro\obj\Debug\net7.0\ConsoleCronometro.dll
+C:\c#\ConsoleCronometro\obj\Debug\net7.0\refint\ConsoleCronometro.dll
+C:\c#\ConsoleCronometro\obj\Debug\net7.0\ConsoleCronometro.pdb
+C:\c#\ConsoleCronometro\obj\Debug\net7.0\ConsoleCronometro.genruntimeconfig.cache
+C:\c#\ConsoleCronometro\obj\Debug\net7.0\ref\ConsoleCronometro.dll
